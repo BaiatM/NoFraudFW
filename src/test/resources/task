@@ -1,0 +1,12 @@
+Please find the assignment for test automation project to be sent for evaluation-
+
+1. Using Playwright /Cypress + Cucumber BDD framework, create a new project on Git.
+2. Add all required framework features to the project (Data driven, Keyword driven , POM etc)
+3. Test Automate scenarios for following steps -
+   1. Visit https://www.saucedemo.com/inventory.html.
+   2. Add any item to cart and proceed to checkout, place order.
+   3. Repeat the scenario for placing order on any other item.
+
+Note : Test Automation Framework models must be followed and assertions should be placed on all the input fields. The code written should be executable.
+
+Please send the git link once done on this email. Thanks.
